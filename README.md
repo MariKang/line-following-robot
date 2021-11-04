@@ -1,2 +1,2 @@
-# line-following-robot
+# Line-Follower Robot
 Creating a line-following robot using arduino motorshield
