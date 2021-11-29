@@ -1,4 +1,4 @@
-# Line-Follower Robot
+# Willy the Line Follower
 
 ## About
 A line-following robot using arduino motorshield and two infrared reflectance sensors.
